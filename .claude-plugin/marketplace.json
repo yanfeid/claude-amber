@@ -1,0 +1,14 @@
+{
+  "name": "claude-amber",
+  "description": "Amber — zero-dependency context survival kit for Claude Code.",
+  "owner": {
+    "name": "yanfei"
+  },
+  "plugins": [
+    {
+      "name": "amber",
+      "source": "./",
+      "description": "Zero-dependency context survival kit for Claude Code. Survive compaction. Stay focused."
+    }
+  ]
+}

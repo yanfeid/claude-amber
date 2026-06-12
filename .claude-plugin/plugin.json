@@ -1,0 +1,21 @@
+{
+  "name": "amber",
+  "description": "Zero-dependency context survival kit for Claude Code. Auto-checkpoints your session state to plain Markdown before compaction, restores it after — plus focus skills that keep Claude lean and on-task. No database, no background process, no AI compression. Just files you can read.",
+  "version": "0.1.0",
+  "author": {
+    "name": "yanfei",
+    "email": "yd429@cornell.edu"
+  },
+  "homepage": "https://github.com/yanfeid/claude-amber",
+  "repository": "https://github.com/yanfeid/claude-amber",
+  "license": "MIT",
+  "keywords": [
+    "claude-code",
+    "context",
+    "compaction",
+    "memory",
+    "hooks",
+    "skills",
+    "context-engineering"
+  ]
+}
