@@ -8,6 +8,10 @@ Survive compaction. Stay focused. Zero dependencies.
 
 [Install](#install-30-seconds) · [How it works](#how-it-works) · [Skills](#the-skills) · [FAQ](#faq)
 
+![CI](https://github.com/yanfeid/claude-amber/actions/workflows/ci.yml/badge.svg)
+
+<img src="assets/demo.svg" alt="Amber demo: state survives /compact" width="780">
+
 </div>
 
 ---
