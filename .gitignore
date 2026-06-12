@@ -3,6 +3,7 @@
 
 # Private launch notes — never publish
 LAUNCH-DRAFTS.md
+LAUNCH-ARTICLE.md
 
 node_modules/
 *.log
