@@ -1,6 +1,9 @@
 # Amber's own runtime artifacts (when developing inside this repo)
 .amber/
 
+# Private launch notes — never publish
+LAUNCH-DRAFTS.md
+
 node_modules/
 *.log
 .DS_Store
